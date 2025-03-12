@@ -3,8 +3,8 @@ public class SwapValuesUsingThirdVeriable {
     public static void main (String[] args)
     {
 
-        int a =12;
-        int b =15;
+        int a =10;
+        int b =7;
         int c;
 
         c=a; //12
