@@ -10,7 +10,7 @@ class Phone{
         {
 
         }
-        void data_Storage(int storageSize)
+        void data_Storage(int storageSize){
 
 
         }
